@@ -14,7 +14,8 @@
   width:220px;
   height: 350px;
   margin: 20px 30px;
-  background-color: #F8F9F9;
+  background-color: #e5f5f5;
+  border-radius: 15px;
 }
 .course-name{
   text-align: center;
